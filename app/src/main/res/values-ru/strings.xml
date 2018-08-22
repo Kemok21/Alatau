@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alatau</string>
+    <string name="business_name">Новокузнецкий горный клуб \"Алатау\"</string>
+    <string name="cont_inf"><u>Информация для контакта</u>:</string>
+    <string name="address"><u>Адрес</u>:</string>
+    <string name="house">Новокузнецк, Кузнецстроевский 1. Вход со двора.</string>
+    <string name="descript"><u>Деятельность</u>:</string>
+    <string name="info">Клуб для занятия альпинизмом и скалолазанием.\nТренировка на скалодроме.</string>
+    <string name="hours"><u>Часы работы</u>:</string>
+    <string name="time">В будние дни с 18:00 до 21:00</string>
+</resources>

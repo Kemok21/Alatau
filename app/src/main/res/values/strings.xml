@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Alatau</string>
+    <string name="business_name">Novokuznetsk mountain club \"Alatau\"</string>
+    <string name="cont_inf"><u>Contact information</u>:</string>
+
+    <!--Translation is not required-->
+    <string name="site">https://vk.com/ngk_alatau</string>
+
+    <string name="address"><u>Address</u>:</string>
+    <string name="house">Novokuznetsk, Kuznetskstroevsky 1.\nEntrance from the yard.</string>
+    <string name="descript"><u>Description of business</u>:</string>
+    <string name="info">Club for the occupation of mountaineering and climbing.\nTraining on the climbing wall.</string>
+    <string name="hours"><u>Hours of operation</u>:</string>
+    <string name="time">On weekdays from 18:00 to 21:00</string>
+
+</resources>
